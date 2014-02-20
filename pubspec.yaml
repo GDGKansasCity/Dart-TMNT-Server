@@ -1,0 +1,4 @@
+name: tmnt_codelab
+description: Write a Dart web app code lab
+dependencies:
+  browser: any
