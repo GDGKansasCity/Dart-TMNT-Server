@@ -2,3 +2,5 @@ name: tmnt_codelab
 description: Write a Dart web app code lab
 dependencies:
   browser: any
+  http_server: any
+  path: any
